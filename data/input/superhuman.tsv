@@ -1,0 +1,886 @@
+rsID	Gene	Polymorphism	Location 38	Ref allele	Alt allele	Genotype	Zygosity	Superability	Adverse effects	References
+rs121908668	LRP5	G171V/+	11:68357673	G	T			Extra strong bones; increased bones mineral density 	Osteosclerosis (ref); Low Buoyancy	https://pubmed.ncbi.nlm.nih.gov/15615112/
+rs12105165	MSTN	-/-	2:190055744	G	A, C, T			Large, lean muscles, low atherosclerosis 	Not reported	https://medlineplus.gov/genetics/condition/myostatin-related-muscle-hypertrophy/#causes
+rs374256136	MSTN	-/-	2:190057641	G	A			Large, lean muscles, low atherosclerosis 	Not reported	https://medlineplus.gov/genetics/condition/myostatin-related-muscle-hypertrophy/#causes
+rs3187415	MSTN	-/-	2:190056055	C	G,T			Large, lean muscles, low atherosclerosis 	Not reported	https://medlineplus.gov/genetics/condition/myostatin-related-muscle-hypertrophy/#causes
+rs1805085	MSTN	-/-	2:190062434	C	T			Large, lean muscles, low atherosclerosis 	Not reported	https://medlineplus.gov/genetics/condition/myostatin-related-muscle-hypertrophy/#causes
+rs1685625618	MSTN	-/-	2:190062499	A	G			Large, lean muscles, low atherosclerosis 	Not reported	https://medlineplus.gov/genetics/condition/myostatin-related-muscle-hypertrophy/#causes
+rs324420	FAAH			C	A		hom	Pain insensitive	Not reported	https://www.bjanaesthesia.org/article/S0007-0912(19)30138-2/fulltext
+rs17822931	ABCC11	-/-	16:48224287	C	G, T		hom	Low odor production. AA (TT) homozygotes were almost 5-fold overrepresented in categories of never using deodorant or using it infrequently.	Not reported	https://www.sciencedirect.com/science/article/pii/S0022202X15363259
+rs67608943	PCSK9	426C/G						Low cholesterol level; low coronary disease	Diabetes, Low cognition	https://www.nejm.org/doi/10.1056/NEJMoa054013?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200www.ncbi.nlm.nih.gov; https://www.ncbi.nlm.nih.gov/clinvar/RCV000003010.4/
+rs28362286	PCSK9	2037C/A						Low cholesterol level; low coronary disease	Diabetes, Low cognition	https://www.nejm.org/doi/10.1056/NEJMoa054013?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200www.ncbi.nlm.nih.gov
+	PCSK9	137G/T; p.Arg46Leu	1:55039974					Low cholesterol level; low coronary disease	Diabetes, Low cognition	https://www.nejm.org/doi/10.1056/NEJMoa054013?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200www.ncbi.nlm.nih.gov; https://europepmc.org/article/med/32846800
+rs7158863	BDKRB2		14:96097516				hom	Deep Diving; ability to hold breathe	Not reported	https://www.cell.com/cell/fulltext/S0092-8674(18)30386-6
+rs72613567	HSD17B13	+/TA(lof)	4:87310240					Low Chronic Liver Disease	Not reported	https://www.nejm.org/doi/10.1056/NEJMoa1712191
+rs267606980	PRNP	G127V	20:4699600					Prion resistance	Not reported	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4486072/
+rs11322783	IFNL4	dG/TT	19:39248514					High Hepatitis C virus clearance	Not reported	https://www.jimmunol.org/content/199/11/3808.long
+rs333	CCR5	CCR5-Delta32	3:46373456					HIV resistance	Increased suseptibility to W.Nile Virus & flu; bone development impairment	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3185609/
+rs1799987	CCR5							HIV resistance	Increased suseptibility to W.Nile Virus & flu; bone development impairment	https://www.ncbi.nlm.nih.gov/clinvar/variation/8189/?oq=rs1799987&m=NM_000579.4(CCR5):c.-301%20246A%3EG
+rs601338	FUT2		19:48703417					Norovirus resistance	Crohn's disease	
+rs11209026	IL23R	R381Q/+	1:67240275					IBD: Crohn's disease, Ulcerative colitis	Not reported	
+rs334	HBB						het	Malaria resistance	Exertional rhabdomyolysis	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9266585/
+rs713040	HBB						het	Malaria resistance	Exertional rhabdomyolysis	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9266585/
+rs7946748	HBB						het	Malaria resistance	Exertional rhabdomyolysis	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9266585/
+rs7480526	HBB						het	Malaria resistance	Exertional rhabdomyolysis	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9266585/
+rs35209591	HBB						het	Malaria resistance	Exertional rhabdomyolysis	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9266585/
+rs10768683	HBB						het	Malaria resistance	Exertional rhabdomyolysis	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9266585/
+rs74571530	CFTR	+/- (c.1523T>G, p.Phe508Cys and F508C)					het	Tuberculosis and cholera resistance	GI,Lung issues 	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5429554/
+rs1797973431	CFTR						het	Tuberculosis and cholera resistance	GI,Lung issues 	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5429554/
+rs397508136	CFTR						het	Tuberculosis and cholera resistance	GI,Lung issues 	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5429554/
+rs397508328	CFTR						het	Tuberculosis and cholera resistance	GI,Lung issues 	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5429554/
+rs397508476	CFTR						het	Tuberculosis and cholera resistance	GI,Lung issues 	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5429554/
+rs397508657	CFTR						het	Tuberculosis and cholera resistance	GI,Lung issues 	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5429554/
+rs186838828	SCN9A		2:166195246	T	A		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs186838828
+rs191667986	SCN9A		2:166195355	T	C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs191667986
+rs139483482	SCN9A		2:166195390	T	C, G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs139483482
+rs201300071	SCN9A		2:166195468	C	T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs201300071
+rs1015184575	SCN9A		2:166195470	A	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs1015184575
+rs182687583	SCN9A		2:166195570	G	A, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs182687583
+rs1433503694	SCN9A		2:166195578	T	C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs1433503694
+rs199656729	SCN9A		2:166195619	C	A, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs199656729
+rs115766730	SCN9A		2:166195634	G	A		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs115766730
+rs201730339	SCN9A		2:166195686	A	C, G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs201730339
+rs1693226507	SCN9A		2:166195727	G	T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs1693226507
+rs199559478	SCN9A		2:166195744	C	A, G, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs199559478
+rs200963393	SCN9A		2:166195812	G	A		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs200963393
+rs73017538	SCN9A		2:166195818	A	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs73017538
+rs1313840276	SCN9A		2:166195943	G	T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs1313840276
+rs199595958	SCN9A		2:166195951	G	C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs199595958
+rs1472041217	SCN9A		2:166195995	A	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs1472041217
+rs149873320	SCN9A		2:166196010	C	T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs149873320
+rs13396526	SCN9A		2:166196032	C	G, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs13396526
+rs58249489	SCN9A		2:166196132	G	A		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs58249489
+rs200962814	SCN9A		2:166196328	G	A, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs200962814
+rs142172527	SCN9A		2:166196349	C	A		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs142172527
+rs185580193	SCN9A		2:166196360	T	A		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs185580193
+rs75345520	SCN9A		2:166196375	T	A		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs75345520
+rs200790957	SCN9A		2:166196444	C	A		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs200790957
+rs141310425	SCN9A		2:166196446	A	C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs141310425
+rs199958892	SCN9A		2:166196450	A	C, G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs199958892
+rs200750861	SCN9A		2:166196460	A	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs200750861
+rs201184093	SCN9A		2:166196481	C	T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs201184093
+rs77565541	SCN9A		2:166196517	C	G, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs77565541
+rs17804037	SCN9A		2:166196518	G	A, C, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs17804037
+rs1062844	SCN9A		2:166196526	C	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs1062844
+rs77050817	SCN9A		2:166196536	G	C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs77050817
+rs548072061	SCN9A		2:166196594	G	A		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs548072061
+rs202203220	SCN9A		2:166196857	A	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs202203220
+rs16851751	SCN9A		2:166196876	G	A		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs16851751
+rs114843828	SCN9A		2:166196898	C	T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs114843828
+rs200353065	SCN9A		2:166196902	T	C, G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs200353065
+rs1693263246	SCN9A		2:166196937	G	T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs1693263246
+rs16851753	SCN9A		2:166197012	C	A, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs16851753
+rs1693265771	SCN9A		2:166197029	A	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs1693265771
+rs199848927	SCN9A		2:166197067	A	G, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs199848927
+rs73017542	SCN9A		2:166197180	G	C, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs73017542
+rs1693272137	SCN9A		2:166197250	A	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs1693272137
+rs201120940	SCN9A		2:166197255	T	C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs201120940
+rs896976419	SCN9A		2:166197289	C	A		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs896976419
+rs200338267	SCN9A		2:166197315	G	A		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs200338267
+rs11902920	SCN9A		2:166197488	A	C, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs11902920
+rs200393413	SCN9A		2:166197658	C	A, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs200393413
+rs16851754	SCN9A		2:166197659	G	A		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs16851754
+rs143727895	SCN9A		2:166197714	G	A		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs143727895
+rs201415802	SCN9A		2:166197724	C	T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs201415802
+rs201424899	SCN9A		2:166197752	A	T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs201424899
+rs200829562	SCN9A		2:166197772	A	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs200829562
+rs200611007	SCN9A		2:166197785	A	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs200611007
+rs199955941	SCN9A		2:166197837	G	T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs199955941
+rs181229506	SCN9A		2:166197887	G	A, C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs181229506
+rs538508619	SCN9A		2:166198003	T	C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs538508619
+rs200153085	SCN9A		2:166198262	T	A		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs200153085
+rs201291538	SCN9A		2:166198264	T	A, C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs201291538
+rs115464654	SCN9A		2:166198295	G	C, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs115464654
+rs185832567	SCN9A		2:166198310	G	A		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs185832567
+rs16851755	SCN9A		2:166198435	G	A, C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs16851755
+rs16851755	SCN9A		2:166198435	G	A, C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs16851755
+rs140553451	SCN9A		2:166198437	A	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs140553451
+rs886055048	SCN9A		2:166198446	T	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs886055048
+rs200625860	SCN9A		2:166198455	C	T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs200625860
+rs111510277	SCN9A		2:166198468	C	T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs111510277
+rs1158330162	SCN9A		2:166198508	C	G, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs1158330162
+rs201133173	SCN9A		2:166198513	A	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs201133173
+rs16851759	SCN9A		2:166198543	G	A, C, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs16851759
+rs200465050	SCN9A		2:166198547	G	A		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs200465050
+rs201137748	SCN9A		2:166198548	T	C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs201137748
+rs150401869	SCN9A		2:166198654	T	C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs150401869
+rs770802841	SCN9A		2:166198691	C	A, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs770802841
+rs199822303	SCN9A		2:166198694	T	A		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs199822303
+rs371454107	SCN9A		2:166198819	G	A, C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs371454107
+rs111558968	SCN9A		2:166198860	G	A		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs111558968
+rs3750904	SCN9A		2:166198883	T	C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs3750904
+rs79805025	SCN9A		2:166198928	C	T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs79805025
+rs199572382	SCN9A		2:166199053	C	T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs199572382
+rs201483184	SCN9A		2:166199084	T	C, G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs201483184
+rs199705100	SCN9A		2:166199096	C	G, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs199705100
+rs201875421	SCN9A		2:166199260	C	A, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs201875421
+rs1553473041	SCN9A		2:166199288	-	-		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs1553473041
+rs372210358	SCN9A		2:166199392	C	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs372210358
+rs199550149	SCN9A		2:166199716	A	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs199550149
+rs200470541	SCN9A		2:166199819	G	A		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs200470541
+rs149207258	SCN9A		2:166199827	C	A		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs149207258
+rs754401649	SCN9A		2:166199861	A	C, G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs754401649
+rs10180721	SCN9A		2:166203939	A	C, G, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs10180721
+rs200070962	SCN9A		2:166203996	C	T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs200070962
+rs202084411	SCN9A		2:166204084	A	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs202084411
+rs187558439	SCN9A		2:166204368	G	A, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs187558439
+rs187558439	SCN9A		2:166204368	G	A, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs187558439
+rs1558945594	SCN9A		2:166204381	T	C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs1558945594
+rs1693696549	SCN9A		2:166204422	A	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs1693696549
+rs77944059	SCN9A		2:166204471-166204481	-	-		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs77944059
+rs112927502	SCN9A		2:166204478	C	A		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs112927502
+rs1362318488	SCN9A		2:166226597	G	A, C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs1362318488
+rs1553478584	SCN9A		2:166226601	-	-		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs1553478584
+rs149346064	SCN9A		2:166226650	C	A, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs149346064
+rs188336294	SCN9A		2:166226651	G	A, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs188336294
+rs200610689	SCN9A		2:166228754	T	A, C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs200610689
+rs1413202256	SCN9A		2:166228769	A	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs1413202256
+rs866428752	SCN9A		2:166228798	G	A		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs866428752
+rs606231279	SCN9A		2:166228871	-	-		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs606231279
+rs1553479216	SCN9A		2:166228902	C	T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs1553479216
+rs202235611	SCN9A		2:166228953	A	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs202235611
+rs886055051	SCN9A		2:166228985	A	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs886055051
+rs180922748	SCN9A		2:166233432	G	C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs180922748
+rs75230218	SCN9A		2:166233466	T	C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs75230218
+rs76550960	SCN9A		2:166233470	A	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs76550960
+rs202047865	SCN9A		2:166238094	A	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs202047865
+rs141268327	SCN9A		2:166238128	T	C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs141268327
+rs886055052	SCN9A		2:166238141	T	C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs886055052
+rs144941725	SCN9A		2:166238211	A	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs144941725
+rs77144869	SCN9A		2:166238220	G	C, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs77144869
+rs750269576	SCN9A		2:166242591	T	C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs750269576
+rs6746030	SCN9A		2:166242648	A	C, G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs6746030
+rs1018959938	SCN9A		2:166242653	C	T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs1018959938
+rs201979079	SCN9A		2:166251751	A	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs201979079
+rs367794835	SCN9A		2:166251789	C	A, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs367794835
+rs200160858	SCN9A		2:166251835	C	A		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs200160858
+rs765384427	SCN9A		2:166251849	C	G, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs765384427
+rs141040985	SCN9A		2:166251869	C	T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs141040985
+rs74401238	SCN9A		2:166251875	C	G, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs74401238
+rs201984007	SCN9A		2:166272407	T	C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs201984007
+rs774490843	SCN9A		2:166272478	A	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs774490843
+rs886055053	SCN9A		2:166272485	C	T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs886055053
+rs200560768	SCN9A		2:166272583	T	C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs200560768
+rs757989638	SCN9A		2:166272625	G	A, C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs757989638
+rs188145203	SCN9A		2:166272730	C	G, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs188145203
+rs4369876	SCN9A		2:166272746	C	A, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs4369876
+rs199692186	SCN9A		2:166272748	T	C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs199692186
+rs886055054	SCN9A		2:166272834	A	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs886055054
+rs760470229	SCN9A		2:166272881	T	A, C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs760470229
+rs201890077	SCN9A		2:166277005	A	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs201890077
+rs12478318	SCN9A		2:166277030	T	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs12478318
+rs121908909	SCN9A		2:166277133	C	T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs121908909
+rs794729216	SCN9A		2:166277134	C	T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs794729216
+rs1024152367	SCN9A		2:166277137	C	T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs1024152367
+rs202152511	SCN9A		2:166277138	G	A		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs202152511
+rs145316463	SCN9A		2:166278134	G	A		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs145316463
+rs200185692	SCN9A		2:166278161	T	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs200185692
+rs41268671	SCN9A		2:166278196	C	T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs41268671
+rs766212849	SCN9A		2:166278199-166278205	-	-		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs766212849
+rs201890240	SCN9A		2:166278220	T	C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs201890240
+rs149707354	SCN9A		2:166278265	T	A, C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs149707354
+rs200624920	SCN9A		2:166278306	G	C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs200624920
+rs1574856736	SCN9A		2:166280369	-	-		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs1574856736
+rs182650126	SCN9A		2:166280452	T	C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs182650126
+rs201744417	SCN9A		2:166280460	T	A, G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs201744417
+rs1486841808	SCN9A		2:166280461	C	A, G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs1486841808
+rs200945460	SCN9A		2:166280508	A	G, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs200945460
+rs202055175	SCN9A		2:166280510	C	G, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs202055175
+rs187526567	SCN9A		2:166280535	A	G, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs187526567
+rs779327684	SCN9A		2:166280591-166280592	-	-		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs779327684
+rs6432893	SCN9A		2:166280609	G	A, C, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs6432893
+rs4525717	SCN9A		2:166280610	C	T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs4525717
+rs200374987	SCN9A		2:166281777	C	T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs200374987
+rs369989247	SCN9A		2:166281785	C	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs369989247
+rs121908919	SCN9A		2:166281786	T	C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs121908919
+rs200014315	SCN9A		2:166281803	C	A, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs200014315
+rs121908918	SCN9A		2:166284506	T	A		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs121908918
+rs201338643	SCN9A		2:166284581	C	T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs201338643
+rs200671761	SCN9A		2:166284589	G	A		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs200671761
+rs41268673	SCN9A		2:166284599	G	C, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs41268673
+rs201318927	SCN9A		2:166284634	C	G, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs201318927
+rs200876333	SCN9A		2:166284714	G	A		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs200876333
+rs1057518900	SCN9A		2:166284785	G	A		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs1057518900
+rs199748300	SCN9A		2:166284808	C	T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs199748300
+rs201354321	SCN9A		2:166284823	G	A		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs201354321
+rs187453572	SCN9A		2:166286383	C	A, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs187453572
+rs777699798	SCN9A		2:166286456	C	A		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs777699798
+rs58022607	SCN9A		2:166286469	C	T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs58022607
+rs200682458	SCN9A		2:166286474	G	A		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs200682458
+rs201531206	SCN9A		2:166286540	G	A, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs201531206
+rs121908908	SCN9A		2:166286562	G	A, C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs121908908
+rs201990547	SCN9A		2:166286591	A	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs201990547
+rs6747673	SCN9A		2:166288464	A	T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs6747673
+rs763256222	SCN9A		2:166288466	G	A, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs763256222
+rs192406412	SCN9A		2:166288471	A	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs192406412
+rs200415928	SCN9A		2:166288474	A	G, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs200415928
+rs13402180	SCN9A		2:166288485	T	A, C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs13402180
+rs200689195	SCN9A		2:166288513	A	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs200689195
+rs199986805	SCN9A		2:166288543	A	G, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs199986805
+rs746956041	SCN9A		2:166288544	T	C, G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs746956041
+rs58465962	SCN9A		2:166288596	C	A, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs58465962
+rs188798505	SCN9A		2:166288612	A	T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs188798505
+rs13414203	SCN9A		2:166288632	A	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs13414203
+rs202002028	SCN9A		2:166288641	C	T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs202002028
+rs886055055	SCN9A		2:166293244	T	C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs886055055
+rs886055056	SCN9A		2:166293324	A	C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs886055056
+rs121908917	SCN9A		2:166293354	G	A, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs121908917
+rs765818027	SCN9A		2:166293358	C	T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs765818027
+rs1553492481	SCN9A		2:166293374	T	C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs1553492481
+rs772337722	SCN9A		2:166294586	A	C, G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs772337722
+rs121908916	SCN9A		2:166303162	G	A, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs121908916
+rs121908916	SCN9A		2:166303162	G	A, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs121908916
+rs199784484	SCN9A		2:166303169	T	C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs199784484
+rs74449889	SCN9A		2:166304225	A	C, G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs74449889
+rs755653914	SCN9A		2:166304241	G	T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs755653914
+rs71428908	SCN9A		2:166304242	G	A, C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs71428908
+rs73969684	SCN9A		2:166305834	C	G, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs73969684
+rs202083986	SCN9A		2:166305835	G	A, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs202083986
+rs9646771	SCN9A		2:166306533	T	A, C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs9646771
+rs200972952	SCN9A		2:166306951	G	A, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs200972952
+rs199824489	SCN9A		2:166307039	G	T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs199824489
+rs747265095	SCN9A		2:166307059	T	A, C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs747265095
+rs768587771	SCN9A		2:166311519	G	A		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs768587771
+rs200240989	SCN9A		2:166311544	C	A, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs200240989
+rs121908920	SCN9A		2:166311573	T	C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs121908920
+rs6432901	SCN9A		2:166311583	C	G, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs6432901
+rs200826539	SCN9A		2:166311628	A	G, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs200826539
+rs200709311	SCN9A		2:166311684	G	A, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs200709311
+rs267607030	SCN9A		2:166311728	T	C		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs267607030
+rs200780217	SCN9A		2:166311787	C	G, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs200780217
+rs201915876	SCN9A		2:166311798	A	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs201915876
+rs569406301	SCN9A		2:166375738	C	A, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs569406301
+rs200099565	SCN9A		2:166375772	C	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs200099565
+rs201445594	SCN9A		2:166375923	G	A		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs201445594
+rs191091185	SCN9A		2:166375929	C	A, G, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs191091185
+rs148362057	SCN9A		2:166375936	A	G, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs148362057
+rs141521157	SCN9A		2:166375940	A	C, G, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs141521157
+rs1881440	SCN9A		2:166375953	C	A, G, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs1881440
+rs201905758	SCN9A		2:166375970	G	A, C, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs201905758
+rs201905758	SCN9A		2:166375970	G	A, C, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs201905758
+rs886055057	SCN9A		2:166375985	C	G		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs886055057
+rs1051254799	SCN9A		2:166375994	C	G, T		hom	Pain insensitive	Same variants may cause hypersensitivity	https://www.ncbi.nlm.nih.gov/snp/rs1051254799
+rs145255931	SCN9A		2:166196048				hom	Pain insensitive	Loss of the sense of smell	https://www.ncbi.nlm.nih.gov/clinvar/variation/331908/
+rs143461219	SCN9A		2:166198424				hom	Pain insensitive	Loss of the sense of smell	https://www.ncbi.nlm.nih.gov/clinvar/variation/331950/?oq=rs143461219&m=NM_001365536.1(SCN9A):c.*244_*247dup
+rs77944059	SCN9A		2:166204478				hom	Pain insensitive	Loss of the sense of smell; in some cases opposite effect: pain hypersensitivity	https://www.ncbi.nlm.nih.gov/clinvar/variation/167657/?oq=rs77944059&m=NM_001365536.1(SCN9A):c.4399-10_4399-7del
+rs9646771	SCN9A		2:166306533				hom	Pain insensitive	Loss of the sense of smell	
+rs186838828	SCN9A	c.*3426A>T					hom	Pain insensitive	Loss of the sense of smell	https://www.ncbi.nlm.nih.gov/clinvar/variation/331895/
+rs1800601	NTRK1		1:156815825	G	A, C, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1800601
+rs7546838	NTRK1		1:156815979	A	C, G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs7546838
+rs1800600	NTRK1		1:156815987	G	A, C, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1800600
+rs146201749	NTRK1		1:156841006	A	G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs146201749
+rs139555558	NTRK1		1:156842095	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs139555558
+rs1322273300	NTRK1		1:156842103	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1322273300
+rs145596747	NTRK1		1:156842104	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs145596747
+rs56252149	NTRK1		1:156844235	G	A, C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs56252149
+rs56068937	NTRK1		1:156846669	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs56068937
+rs56377825	NTRK1		1:156852093	A	G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs56377825
+rs1655612629	NTRK1		1:156860935	A	C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1655612629
+rs1655612729	NTRK1		1:156860941	C	G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1655612729
+rs556840308	NTRK1		1:156860944	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs556840308
+rs757229319	NTRK1		1:156860946	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs757229319
+rs201472270	NTRK1		1:156860950	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs201472270
+rs894958112	NTRK1		1:156860956	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs894958112
+rs80356673	NTRK1		1:156860959	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs80356673
+rs994643260	NTRK1		1:156860966	G	C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs994643260
+rs1007211	NTRK1		1:156860987	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1007211
+rs748402400	NTRK1		1:156860999	T	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs748402400
+rs1350547406	NTRK1		1:156861022	T	C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1350547406
+rs1204319733	NTRK1		1:156861037	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1204319733
+rs1377294547	NTRK1		1:156861050	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1377294547
+rs746293720	NTRK1		1:156861051	C	G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs746293720
+rs1655622492	NTRK1		1:156861065	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1655622492
+rs572625293	NTRK1		1:156861072	G	A, C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs572625293
+rs1553260399	NTRK1		1:156861074	G	C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1553260399
+rs1655623769	NTRK1		1:156861082	T	C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1655623769
+rs376870955	NTRK1		1:156861086	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs376870955
+rs200815412	NTRK1		1:156861091	G	A, C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs200815412
+rs200815412	NTRK1		1:156861091	G	A, C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs200815412
+rs1266709497	NTRK1		1:156861098	C	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1266709497
+rs1571681483	NTRK1		1:156861117	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1571681483
+rs766307207	NTRK1		1:156861119	T	C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs766307207
+rs1655628449	NTRK1		1:156861127	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1655628449
+rs1655628590	NTRK1		1:156861131	A	G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1655628590
+rs779430325	NTRK1		1:156861136	C	A, G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs779430325
+rs398122810	NTRK1		1:156861141-156861142	-	-		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs398122810
+rs183517027	NTRK1		1:156861156	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs183517027
+rs1571685066	NTRK1		1:156864345	T	C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1571685066
+rs1571685072	NTRK1		1:156864346	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1571685072
+rs757323460	NTRK1		1:156864349	C	G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs757323460
+rs563296138	NTRK1		1:156864360	C	A, G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs563296138
+rs1655824699	NTRK1		1:156864366-156864370	-	-		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1655824699
+rs1655824830	NTRK1		1:156864369-156864387	-	-		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1655824830
+rs1655825221	NTRK1		1:156864372	-	-		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1655825221
+rs139140006	NTRK1		1:156864377	T	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs139140006
+rs55891455	NTRK1		1:156864380	A	C, G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs55891455
+rs1655826385	NTRK1		1:156864385	C	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1655826385
+rs543320028	NTRK1		1:156864394	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs543320028
+rs543320028	NTRK1		1:156864394	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs543320028
+rs79678945	NTRK1		1:156864395	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs79678945
+rs79678945	NTRK1		1:156864395	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs79678945
+rs774266965	NTRK1		1:156864397	G	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs774266965
+rs2274496	NTRK1		1:156864406	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs2274496
+rs147983523	NTRK1		1:156864420	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs147983523
+rs991913175	NTRK1		1:156864421	A	C, G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs991913175
+rs768373757	NTRK1		1:156864430	-	-		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs768373757
+rs202238126	NTRK1		1:156864440	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs202238126
+rs80026148	NTRK1		1:156864720	C	G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs80026148
+rs200860423	NTRK1		1:156864723	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs200860423
+rs201509045	NTRK1		1:156864735	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs201509045
+rs778582725	NTRK1		1:156864741	A	G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs778582725
+rs745808991	NTRK1		1:156864742	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs745808991
+rs374170641	NTRK1		1:156864745	G	A, C, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs374170641
+rs374170641	NTRK1		1:156864745	G	A, C, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs374170641
+rs1366600162	NTRK1		1:156864746	T	A, G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1366600162
+rs578095133	NTRK1		1:156864751	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs578095133
+rs6340	NTRK1		1:156864755	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs6340
+rs763164402	NTRK1		1:156864756	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs763164402
+rs540521894	NTRK1		1:156864760	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs540521894
+rs774351278	NTRK1		1:156864761	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs774351278
+rs774351278	NTRK1		1:156864761	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs774351278
+rs141592864	NTRK1		1:156864766	A	G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs141592864
+rs202161010	NTRK1		1:156864781	C	G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs202161010
+rs1571685698	NTRK1		1:156864784	C	A, G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1571685698
+rs1571685736	NTRK1		1:156864793-156864802	-	-		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1571685736
+rs757031354	NTRK1		1:156864795	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs757031354
+rs778566154	NTRK1		1:156864796	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs778566154
+rs149960336	NTRK1		1:156864797	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs149960336
+rs139876524	NTRK1		1:156866901	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs139876524
+rs797045059	NTRK1		1:156866908	A	C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs797045059
+rs764843161	NTRK1		1:156866916	C	G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs764843161
+rs757803799	NTRK1		1:156866925	C	G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs757803799
+rs922936206	NTRK1		1:156866926	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs922936206
+rs539589077	NTRK1		1:156866927	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs539589077
+rs747976486	NTRK1		1:156866946	G	A, C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs747976486
+rs778963822	NTRK1		1:156866951	C	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs778963822
+rs1306924167	NTRK1		1:156866972	A	C, G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1306924167
+rs370483210	NTRK1		1:156866974	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs370483210
+rs1655964719	NTRK1		1:156866981	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1655964719
+rs41267425	NTRK1		1:156866990	C	A, G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs41267425
+rs41267425	NTRK1		1:156866990	C	A, G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs41267425
+rs748672380	NTRK1		1:156868103	G	A, C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs748672380
+rs1647275742	NTRK1		1:156868110	G	C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1647275742
+rs41267427	NTRK1		1:156868112	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs41267427
+rs773828967	NTRK1		1:156868120	C	G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs773828967
+rs760720879	NTRK1		1:156868125	G	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs760720879
+rs368564443	NTRK1		1:156868128	C	G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs368564443
+rs368564443	NTRK1		1:156868128	C	G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs368564443
+rs991397214	NTRK1		1:156868143	G	C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs991397214
+rs141021604	NTRK1		1:156868145	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs141021604
+rs1647277529	NTRK1		1:156868153	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1647277529
+rs150271893	NTRK1		1:156868157	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs150271893
+rs749711737	NTRK1		1:156868175	T	G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs749711737
+rs771222681	NTRK1		1:156868176	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs771222681
+rs144594313	NTRK1		1:156868179	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs144594313
+rs144594313	NTRK1		1:156868179	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs144594313
+rs367836863	NTRK1		1:156868180	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs367836863
+rs1558100405	NTRK1		1:156868183	G	A, C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1558100405
+rs201503610	NTRK1		1:156868184	T	C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs201503610
+rs1647285893	NTRK1		1:156868195	A	G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1647285893
+rs879253889	NTRK1		1:156868201	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs879253889
+rs1057523619	NTRK1		1:156868206	T	C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1057523619
+rs1571689751	NTRK1		1:156868213	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1571689751
+rs1485714154	NTRK1		1:156868216-156868218	-	-		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1485714154
+rs751776342	NTRK1		1:156868218	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs751776342
+rs755312547	NTRK1		1:156868219	C	A, G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs755312547
+rs756232321	NTRK1		1:156868224	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs756232321
+rs138608619	NTRK1		1:156868245	C	G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs138608619
+rs1232901259	NTRK1		1:156868250	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1232901259
+rs771749558	NTRK1		1:156868258	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs771749558
+rs201336491	NTRK1		1:156868259	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs201336491
+rs1800879	NTRK1		1:156868349	T	C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1800879
+rs143312136	NTRK1		1:156868489	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs143312136
+rs762788551	NTRK1		1:156868490	G	A, C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs762788551
+rs1571690112	NTRK1		1:156868504-156868505	-	-		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1571690112
+rs201185829	NTRK1		1:156868505	G	C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs201185829
+rs1319598861	NTRK1		1:156868511	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1319598861
+rs552776147	NTRK1		1:156868514	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs552776147
+rs182531655	NTRK1		1:156868515	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs182531655
+rs753902046	NTRK1		1:156868520	A	C, G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs753902046
+rs753902046	NTRK1		1:156868520	A	C, G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs753902046
+rs146201511	NTRK1		1:156868532	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs146201511
+rs1553261428	NTRK1		1:156868534	A	G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1553261428
+rs1475036463	NTRK1		1:156868535	A	G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1475036463
+rs1228967598	NTRK1		1:156868537	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1228967598
+rs148324672	NTRK1		1:156868541	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs148324672
+rs114320051	NTRK1		1:156868542	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs114320051
+rs1571690231	NTRK1		1:156868548	T	C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1571690231
+rs1290171656	NTRK1		1:156868553	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1290171656
+rs1413555180	NTRK1		1:156868556	A	G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1413555180
+rs745366033	NTRK1		1:156868558	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs745366033
+rs745366033	NTRK1		1:156868558	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs745366033
+rs147882947	NTRK1		1:156868560	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs147882947
+rs201192875	NTRK1		1:156868561	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs201192875
+rs1064793219	NTRK1		1:156868562	T	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1064793219
+rs747711259	NTRK1		1:156868568	T	C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs747711259
+rs890893982	NTRK1		1:156868569	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs890893982
+rs372041586	NTRK1		1:156868570	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs372041586
+rs200132482	NTRK1		1:156868571	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs200132482
+rs202030811	NTRK1		1:156868588	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs202030811
+rs540751200	NTRK1		1:156868589	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs540751200
+rs369478563	NTRK1		1:156868592	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs369478563
+rs1407589933	NTRK1		1:156868605	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1407589933
+rs760918699	NTRK1		1:156868606	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs760918699
+rs1221240822	NTRK1		1:156868612	A	G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1221240822
+rs55909005	NTRK1		1:156868640	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs55909005
+rs537430475	NTRK1		1:156868641	G	A, C, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs537430475
+rs537430475	NTRK1		1:156868641	G	A, C, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs537430475
+rs606231466	NTRK1		1:156868651	A	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs606231466
+rs2644614	NTRK1		1:156871467	A	C, G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs2644614
+rs778745696	NTRK1		1:156871608	T	C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs778745696
+rs1474214658	NTRK1		1:156871622	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1474214658
+rs1647560664	NTRK1		1:156871647	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1647560664
+rs1647563990	NTRK1		1:156871690	A	G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1647563990
+rs201509717	NTRK1		1:156871692	G	A, C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs201509717
+rs201110800	NTRK1		1:156871697	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs201110800
+rs145222195	NTRK1		1:156871713	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs145222195
+rs151334385	NTRK1		1:156871722	C	G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs151334385
+rs200305545	NTRK1		1:156871723	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs200305545
+rs138533001	NTRK1		1:156871729	A	C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs138533001
+rs1571693652	NTRK1		1:156871735	C	G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1571693652
+rs1381464469	NTRK1		1:156871743	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1381464469
+rs547972574	NTRK1		1:156871747	A	C, G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs547972574
+rs774654606	NTRK1		1:156871749	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs774654606
+rs768096430	NTRK1		1:156871751	C	G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs768096430
+rs372293237	NTRK1		1:156871766	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs372293237
+rs80356674	NTRK1		1:156873600	T	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs80356674
+rs137979116	NTRK1		1:156873647	C	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs137979116
+rs1647699293	NTRK1		1:156873649	G	C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1647699293
+rs764645590	NTRK1		1:156873657	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs764645590
+rs567093941	NTRK1		1:156873660	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs567093941
+rs766259168	NTRK1		1:156873661	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs766259168
+rs1553262169	NTRK1		1:156873673	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1553262169
+rs754703492	NTRK1		1:156873681	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs754703492
+rs1571695813	NTRK1		1:156873682	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1571695813
+rs1181004723	NTRK1		1:156873687	C	G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1181004723
+rs1647704858	NTRK1		1:156873699	A	G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1647704858
+rs1647704858	NTRK1		1:156873699	A	G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1647704858
+rs1571695851	NTRK1		1:156873702-156873712	-	-		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1571695851
+rs1300360657	NTRK1		1:156873708	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1300360657
+rs144015813	NTRK1		1:156873709	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs144015813
+rs745909443	NTRK1		1:156873712	A	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs745909443
+rs137994522	NTRK1		1:156873722	C	G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs137994522
+rs137994522	NTRK1		1:156873722	C	G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs137994522
+rs368769883	NTRK1		1:156873723	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs368769883
+rs769539870	NTRK1		1:156873736	T	C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs769539870
+rs1647708522	NTRK1		1:156873738	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1647708522
+rs772764828	NTRK1		1:156873739	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs772764828
+rs779155543	NTRK1		1:156873770	A	G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs779155543
+rs758490619	NTRK1		1:156873786	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs758490619
+rs758490619	NTRK1		1:156873786	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs758490619
+rs780334454	NTRK1		1:156873787	G	A, C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs780334454
+rs781390842	NTRK1		1:156873802	C	G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs781390842
+rs139875058	NTRK1		1:156873803	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs139875058
+rs375878564	NTRK1		1:156873806	C	G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs375878564
+rs770090356	NTRK1		1:156873807	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs770090356
+rs772855825	NTRK1		1:156873811	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs772855825
+rs1571696060	NTRK1		1:156873813-156873825	-	-		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1571696060
+rs561243137	NTRK1		1:156873821	C	G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs561243137
+rs561243137	NTRK1		1:156873821	C	G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs561243137
+rs797045060	NTRK1		1:156873822	G	A, C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs797045060
+rs797045060	NTRK1		1:156873822	G	A, C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs797045060
+rs201035170	NTRK1		1:156873842	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs201035170
+rs145823996	NTRK1		1:156873850	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs145823996
+rs121964869	NTRK1		1:156873858	A	G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs121964869
+rs371498291	NTRK1		1:156873861	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs371498291
+rs2274498	NTRK1		1:156873862	G	A, C, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs2274498
+rs2274498	NTRK1		1:156873862	G	A, C, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs2274498
+rs750656916	NTRK1		1:156873865	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs750656916
+rs1571696163	NTRK1		1:156873868	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1571696163
+rs1571696173	NTRK1		1:156873875	A	C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1571696173
+rs1433789221	NTRK1		1:156873880	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1433789221
+rs534972681	NTRK1		1:156873883	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs534972681
+rs866261145	NTRK1		1:156873884	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs866261145
+rs754611476	NTRK1		1:156873896	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs754611476
+rs754611476	NTRK1		1:156873896	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs754611476
+rs1347421266	NTRK1		1:156873902	A	G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1347421266
+rs770611182	NTRK1		1:156873907	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs770611182
+rs140644885	NTRK1		1:156873921	A	G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs140644885
+rs374700842	NTRK1		1:156873925	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs374700842
+rs536619715	NTRK1		1:156873943	C	G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs536619715
+rs964771053	NTRK1		1:156873963	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs964771053
+rs199646180	NTRK1		1:156874392	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs199646180
+rs767630555	NTRK1		1:156874394	C	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs767630555
+rs752761451	NTRK1		1:156874395	C	G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs752761451
+rs764543935	NTRK1		1:156874398	T	C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs764543935
+rs1024148691	NTRK1		1:156874560	T	C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1024148691
+rs760602338	NTRK1		1:156874562	T	C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs760602338
+rs1558104865	NTRK1		1:156874568-156874570	-	-		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1558104865
+rs764171953	NTRK1		1:156874570	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs764171953
+rs750799657	NTRK1		1:156874595	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs750799657
+rs147438950	NTRK1		1:156874611	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs147438950
+rs199826686	NTRK1		1:156874612	G	A, C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs199826686
+rs186649954	NTRK1		1:156874891	C	A, G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs186649954
+rs372743293	NTRK1		1:156874898	C	G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs372743293
+rs776728101	NTRK1		1:156874900	C	G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs776728101
+rs765681685	NTRK1		1:156874910	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs765681685
+rs750968694	NTRK1		1:156874911	G	A, C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs750968694
+rs1647805941	NTRK1		1:156874941	C	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1647805941
+rs771342578	NTRK1		1:156874955	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs771342578
+rs767104704	NTRK1		1:156874956	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs767104704
+rs1558105252	NTRK1		1:156874964-156874967	-	-		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1558105252
+rs147443162	NTRK1		1:156874974	C	G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs147443162
+rs56320207	NTRK1		1:156874985	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs56320207
+rs55634591	NTRK1		1:156874998	T	C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs55634591
+rs1571697785	NTRK1		1:156875001	G	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1571697785
+rs34900547	NTRK1		1:156875008	C	A, G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs34900547
+rs34900547	NTRK1		1:156875008	C	A, G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs34900547
+rs764771898	NTRK1		1:156875009	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs764771898
+rs763576316	NTRK1		1:156875016	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs763576316
+rs73004759	NTRK1		1:156875026	A	G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs73004759
+rs202108805	NTRK1		1:156875523	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs202108805
+rs200937156	NTRK1		1:156875524	G	A, C, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs200937156
+rs1647850345	NTRK1		1:156875538	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1647850345
+rs761247634	NTRK1		1:156875546	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs761247634
+rs765177801	NTRK1		1:156875555	A	C, G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs765177801
+rs1311708647	NTRK1		1:156875560	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1311708647
+rs750362227	NTRK1		1:156875563	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs750362227
+rs1647852027	NTRK1		1:156875569	C	G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1647852027
+rs1239229213	NTRK1		1:156875583	G	A, C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1239229213
+rs762942184	NTRK1		1:156875593-156875595	-	-		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs762942184
+rs770948722	NTRK1		1:156875602	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs770948722
+rs1647855568	NTRK1		1:156875613	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1647855568
+rs1571698553	NTRK1		1:156875617	T	C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1571698553
+rs373181158	NTRK1		1:156875638	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs373181158
+rs144901788	NTRK1		1:156875639	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs144901788
+rs764737760	NTRK1		1:156875645	C	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs764737760
+rs750349933	NTRK1		1:156875646	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs750349933
+rs762948862	NTRK1		1:156875649	A	G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs762948862
+rs56185968	NTRK1		1:156875701-156875736	-	-		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs56185968
+rs750026012	NTRK1		1:156876071-156876075	-	-		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs750026012
+rs1558106092	NTRK1		1:156876095	A	G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1558106092
+rs901135479	NTRK1		1:156876099	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs901135479
+rs200575096	NTRK1		1:156876100	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs200575096
+rs200575096	NTRK1		1:156876100	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs200575096
+rs1035934237	NTRK1		1:156876103	G	A, C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1035934237
+rs1035934237	NTRK1		1:156876103	G	A, C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1035934237
+rs606231467	NTRK1		1:156876128	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs606231467
+rs564775946	NTRK1		1:156876135	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs564775946
+rs1647889781	NTRK1		1:156876147	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1647889781
+rs759451509	NTRK1		1:156876164	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs759451509
+rs760564817	NTRK1		1:156876175	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs760564817
+rs765515894	NTRK1		1:156876189	C	G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs765515894
+rs1647892453	NTRK1		1:156876195	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1647892453
+rs1426132695	NTRK1		1:156876199	G	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1426132695
+rs886045372	NTRK1		1:156876214	A	G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs886045372
+rs1571699664	NTRK1		1:156876399	G	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1571699664
+rs763247367	NTRK1		1:156876413	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs763247367
+rs771010259	NTRK1		1:156876414	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs771010259
+rs774664479	NTRK1		1:156876417	C	G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs774664479
+rs774664479	NTRK1		1:156876417	C	G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs774664479
+rs1363364803	NTRK1		1:156876426	-	-		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1363364803
+rs80356675	NTRK1		1:156876427	-	-		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs80356675
+rs764417252	NTRK1		1:156876428	G	A, C, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs764417252
+rs764417252	NTRK1		1:156876428	G	A, C, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs764417252
+rs6334	NTRK1		1:156876441	G	A, C, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs6334
+rs201564883	NTRK1		1:156876443	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs201564883
+rs55892037	NTRK1		1:156876464	T	A, C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs55892037
+rs755016431	NTRK1		1:156876484	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs755016431
+rs368806213	NTRK1		1:156876487	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs368806213
+rs368806213	NTRK1		1:156876487	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs368806213
+rs6335	NTRK1		1:156876495	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs6335
+rs121964866	NTRK1		1:156876496	G	A, C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs121964866
+rs760764097	NTRK1		1:156876499	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs760764097
+rs953974597	NTRK1		1:156876501	C	G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs953974597
+rs764541952	NTRK1		1:156876505	A	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs764541952
+rs777123174	NTRK1		1:156876506	C	A, G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs777123174
+rs150579345	NTRK1		1:156876508	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs150579345
+rs371344688	NTRK1		1:156876514	C	G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs371344688
+rs762542314	NTRK1		1:156876515	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs762542314
+rs762542314	NTRK1		1:156876515	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs762542314
+rs754567573	NTRK1		1:156876519	C	A, G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs754567573
+rs1571699945	NTRK1		1:156876521	-	-		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1571699945
+rs121964870	NTRK1		1:156876526	A	G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs121964870
+rs1647927494	NTRK1		1:156876535	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1647927494
+rs781209572	NTRK1		1:156876544	C	G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs781209572
+rs748133401	NTRK1		1:156876545	G	A, C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs748133401
+rs1571699995	NTRK1		1:156876546	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1571699995
+rs772229945	NTRK1		1:156876562	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs772229945
+rs775718859	NTRK1		1:156876563	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs775718859
+rs146129485	NTRK1		1:156876570	C	G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs146129485
+rs763758904	NTRK1		1:156876571	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs763758904
+rs780424308	NTRK1		1:156876580	C	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs780424308
+rs1799770	NTRK1		1:156879118	-	-		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1799770
+rs188270548	NTRK1		1:156879124	C	G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs188270548
+rs6336	NTRK1		1:156879126	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs6336
+rs1558108020	NTRK1		1:156879142	A	G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1558108020
+rs6339	NTRK1		1:156879154	G	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs6339
+rs149663928	NTRK1		1:156879159	G	A, C, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs149663928
+rs1648098608	NTRK1		1:156879174	G	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1648098608
+rs6338	NTRK1		1:156879176	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs6338
+rs80356676	NTRK1		1:156879176-156879177	-	-		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs80356676
+rs778746462	NTRK1		1:156879183	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs778746462
+rs1648099765	NTRK1		1:156879184	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1648099765
+rs555107102	NTRK1		1:156879198	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs555107102
+rs6337	NTRK1		1:156879203	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs6337
+rs1405634315	NTRK1		1:156879204	G	A, C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1405634315
+rs148270992	NTRK1		1:156879218	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs148270992
+rs17838192	NTRK1		1:156879224	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs17838192
+rs760171782	NTRK1		1:156879233	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs760171782
+rs1648104540	NTRK1		1:156879235	A	C, G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1648104540
+rs1648104540	NTRK1		1:156879235	A	C, G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1648104540
+rs920692665	NTRK1		1:156879241	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs920692665
+rs930810955	NTRK1		1:156879242	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs930810955
+rs142870382	NTRK1		1:156879255	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs142870382
+rs369353892	NTRK1		1:156879261	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs369353892
+rs786205449	NTRK1		1:156879262	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs786205449
+rs764992664	NTRK1		1:156879276	C	G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs764992664
+rs1433630727	NTRK1		1:156879301-156879307	-	-		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1433630727
+rs1571702915	NTRK1		1:156879303	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1571702915
+rs553270591	NTRK1		1:156879311	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs553270591
+rs1558108205	NTRK1		1:156879331	G	A, C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1558108205
+rs757891009	NTRK1		1:156879332	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs757891009
+rs1553262978	NTRK1		1:156879335	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1553262978
+rs80356677	NTRK1		1:156879336	G	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs80356677
+rs1052882544	NTRK1		1:156879344	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1052882544
+rs775191394	NTRK1		1:156879351	G	A, C, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs775191394
+rs1452844753	NTRK1		1:156879363	G	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1452844753
+rs914061514	NTRK1		1:156879365	A	C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs914061514
+rs12076232	NTRK1		1:156879983	T	C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs12076232
+rs79173278	NTRK1		1:156879988	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs79173278
+rs769308621	NTRK1		1:156879991	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs769308621
+rs762866535	NTRK1		1:156879993	T	C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs762866535
+rs34271945	NTRK1		1:156880004	A	G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs34271945
+rs1648159596	NTRK1		1:156880007-156880010	-	-		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1648159596
+rs754452975	NTRK1		1:156880009	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs754452975
+rs1057521447	NTRK1		1:156880019	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1057521447
+rs1571703866	NTRK1		1:156880020	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1571703866
+rs55970329	NTRK1		1:156880022	C	G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs55970329
+rs121964868	NTRK1		1:156880036	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs121964868
+rs377730927	NTRK1		1:156880037	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs377730927
+rs756614200	NTRK1		1:156880038-156880064	-	-		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs756614200
+rs56008523	NTRK1		1:156880040	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs56008523
+rs200022271	NTRK1		1:156880057	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs200022271
+rs200935209	NTRK1		1:156880065	A	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs200935209
+rs747855434	NTRK1		1:156880071	G	A, C, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs747855434
+rs1371693296	NTRK1		1:156880076	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1371693296
+rs777306969	NTRK1		1:156880079	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs777306969
+rs147776488	NTRK1		1:156880091	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs147776488
+rs145139769	NTRK1		1:156880094	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs145139769
+rs1648170217	NTRK1		1:156880095	-	-		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1648170217
+rs759190964	NTRK1		1:156880095	G	A, C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs759190964
+rs762163798	NTRK1		1:156880116	A	G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs762163798
+rs140852621	NTRK1		1:156880121	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs140852621
+rs763122825	NTRK1		1:156880122	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs763122825
+rs755323716	NTRK1		1:156880153	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs755323716
+rs55668752	NTRK1		1:156880154	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs55668752
+rs748710832	NTRK1		1:156880166	C	G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs748710832
+rs748710832	NTRK1		1:156880166	C	G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs748710832
+rs368713268	NTRK1		1:156880167	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs368713268
+rs1648175536	NTRK1		1:156880170	C	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1648175536
+rs548581473	NTRK1		1:156881450	G	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs548581473
+rs1648253157	NTRK1		1:156881465	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1648253157
+rs145081333	NTRK1		1:156881473	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs145081333
+rs753013914	NTRK1		1:156881474	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs753013914
+rs763591781	NTRK1		1:156881481	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs763591781
+rs751281792	NTRK1		1:156881482	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs751281792
+rs1444452580	NTRK1		1:156881485	A	G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1444452580
+rs1648255941	NTRK1		1:156881490	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1648255941
+rs778520978	NTRK1		1:156881493	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs778520978
+rs745776726	NTRK1		1:156881494	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs745776726
+rs1009726086	NTRK1		1:156881499	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1009726086
+rs746732506	NTRK1		1:156881510	A	C, G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs746732506
+rs1553263348	NTRK1		1:156881516	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1553263348
+rs62640939	NTRK1		1:156881523	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs62640939
+rs759637817	NTRK1		1:156881532	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs759637817
+rs760974854	NTRK1		1:156881547	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs760974854
+rs764581997	NTRK1		1:156881548	G	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs764581997
+rs886045373	NTRK1		1:156881550	G	A, C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs886045373
+rs753397054	NTRK1		1:156881552	G	A, C, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs753397054
+rs756981419	NTRK1		1:156881554	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs756981419
+rs780724170	NTRK1		1:156881563	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs780724170
+rs1570912470	NTRK1		1:156881575	A	G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1570912470
+rs1558109727	NTRK1		1:156881582-156881613	-	-		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1558109727
+rs370504033	NTRK1		1:156881585	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs370504033
+rs374957692	NTRK1		1:156881586	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs374957692
+rs537948663	NTRK1		1:156881589	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs537948663
+rs35669708	NTRK1		1:156881590	G	A, C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs35669708
+rs35669708	NTRK1		1:156881590	G	A, C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs35669708
+rs772156529	NTRK1		1:156881606	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs772156529
+rs768876280	NTRK1		1:156881613	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs768876280
+rs55948542	NTRK1		1:156881619	G	A, C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs55948542
+rs750111437	NTRK1		1:156881622	T	C		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs750111437
+rs1170361634	NTRK1		1:156881628	G	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1170361634
+rs1570912582	NTRK1		1:156881633	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs1570912582
+rs749041981	NTRK1		1:156881634	C	G, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs749041981
+rs370807813	NTRK1		1:156881648	C	A, T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs370807813
+rs774009893	NTRK1		1:156881681	C	T		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs774009893
+rs773036874	NTRK1		1:156881698	C	G		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs773036874
+rs886045374	NTRK1		1:156881738	G	A		hom	Pain insensitive, no sweat (anhydrosis)	Unnoticed harm, hyperthermia	https://www.ncbi.nlm.nih.gov/snp/rs886045374
+rs73885319	APOL1	S324G; p.Ser342Gly					het	Resistance to Trypanosoma brucei	Increased kidney diseaese risk	https://www.sciencedirect.com/science/article/pii/S2157171615322413
+rs60910145	APOL1	c.1152T>G, p.Ile384Met					het	Resistance to Trypanosoma brucei	Increased kidney diseaese risk	https://www.sciencedirect.com/science/article/pii/S2157171615322413
+rs71785313	APOL1	p.NYK388K					het	Resistance to Trypanosoma brucei	Increased kidney diseaese risk	https://www.sciencedirect.com/science/article/pii/S2157171615322413
+rs5082	APOA2					CC	hom	Low coronary disease	Obesity	https://pubmed.ncbi.nlm.nih.gov/17446329/
+rs7412	APOE					TT	hom	Low risk of Alzheimer disease	Not reported	https://pubmed.ncbi.nlm.nih.gov/16603077/
+rs200185429	SLC30A8	p.Arg138X; c.412C>T						Low risk of Type 2 Diabetis	Not reported	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4051628/; https://www.ncbi.nlm.nih.gov/clinvar/RCV000129930/
+rs6179	GHR							Low cancer risk, prolongevity	Short stature	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4074016/
+rs2940928	GHR							Low cancer risk, prolongevity	Short stature	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4074016/
+rs11369980	GHR							Low cancer risk, prolongevity	Short stature	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4074016/
+rs7442754	GHR							Low cancer risk, prolongevity	Short stature	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4074016/
+rs6180	GHR							Low cancer risk, prolongevity	Short stature	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4074016/
+rs2910875	GHR							Low cancer risk, prolongevity	Short stature	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4074016/
+rs1990760	IFIH1							Lower risk of  Type 1 Diabetes	Not reported	https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0012646
+rs1168015	ANGPTL3							Lower risk of  cardiac diseases; lipid protection	Not reported	https://www.nejm.org/doi/full/10.1056/NEJMoa1612790
+rs3008052	PDE10A							Breath-hold diving	Not reported	https://www.cell.com/cell/fulltext/S0092-8674(18)30386-6
+rs78561501	EGLN1						het	High altitude resistance	Not reported	https://www.pnas.org/doi/pdf/10.1073/pnas.1617042114
+rs116611511	EPAS1							High altitude resistance	Not reported	https://www.pnas.org/doi/10.1073/pnas.1617042114
+rs121918116	EPOR	W439X						High oxygen transport	Not reported	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC46538/pdf/pnas01462-0175.pdf
+rs1406844918	NPSR1	Y206H/+					het	Less sleep	Not reported	https://www.science.org/doi/10.1126/scitranslmed.aax2014
+rs776439595	ADRB1	A187V						Less sleep	Not reported	https://www.cell.com/neuron/fulltext/S0896-6273(19)30652-X
+rs121912617	BHLHE41 	P385R/+					het	Less sleep	Not reported	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2884988/
+rs63750847	APP	A673T/+						Low Alzheimer's	Not reported	https://www.nature.com/articles/nature11283
+rs4297478	GLUK4	del/+						Low bipolar, high cognitive	Not reported	https://pubmed.ncbi.nlm.nih.gov/29243543/
+rs577898637	RIMS1		6:71886722	C	G, T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs577898637
+rs868415047	RIMS1		6:71886775	C	G		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs868415047
+rs555947867	RIMS1		6:71886841-71886844	-	-		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs555947867
+rs886061704	RIMS1		6:71886843	G	A, T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs886061704
+rs528494309	RIMS1		6:71886884	T	C		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs528494309
+rs371884894	RIMS1		6:71886897	G	A		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs371884894
+rs532687860	RIMS1		6:71886903	C	G, T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs532687860
+rs763463323	RIMS1		6:71887011	G	A, T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs763463323
+rs200935038	RIMS1		6:71887051	C	T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs200935038
+rs546636252	RIMS1		6:71887052	C	G, T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs546636252
+rs538562890	RIMS1		6:71887062	C	G		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs538562890
+rs532652925	RIMS1		6:71968978	C	G		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs532652925
+rs200005095	RIMS1		6:71968987	G	A, C, T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs200005095
+rs377211296	RIMS1		6:72097126	G	A		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs377211296
+rs142196418	RIMS1		6:72097141	C	T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs142196418
+rs552482751	RIMS1		6:72097161	A	C, G		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs552482751
+rs1238525429	RIMS1		6:72097162	C	T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs1238525429
+rs552585116	RIMS1		6:72097174	A	G		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs552585116
+rs149442461	RIMS1		6:72179697	A	G		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs149442461
+rs116303981	RIMS1		6:72179751	G	A, T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs116303981
+rs2249021	RIMS1		6:72179769	A	G, T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs2249021
+rs778273984	RIMS1		6:72179775	A	G		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs778273984
+rs116476753	RIMS1		6:72179846	C	T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs116476753
+rs755868505	RIMS1		6:72179901	A	G		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs755868505
+rs180682682	RIMS1		6:72182270	T	C, G		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs180682682
+rs757160554	RIMS1		6:72182297	G	A		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs757160554
+rs886061705	RIMS1		6:72182384	G	C		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs886061705
+rs758719701	RIMS1		6:72182399	C	A, G, T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs758719701
+rs758719701	RIMS1		6:72182399	C	A, G, T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs758719701
+rs185069362	RIMS1		6:72182413	G	A		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs185069362
+rs2048521720	RIMS1		6:72182425	G	C		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs2048521720
+rs2463730	RIMS1		6:72182554	A	G, T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs2463730
+rs371189625	RIMS1		6:72182559	G	C, T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs371189625
+rs114505309	RIMS1		6:72182680	G	A		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs114505309
+rs996767502	RIMS1		6:72182768	A	G		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs996767502
+rs769837216	RIMS1		6:72182782	G	A, C		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs769837216
+rs2048555576	RIMS1		6:72182835	G	A		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs2048555576
+rs886061706	RIMS1		6:72182853	C	A, T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs886061706
+rs541997223	RIMS1		6:72182855	C	A, G		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs541997223
+rs946973429	RIMS1		6:72182857	G	A, T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs946973429
+rs200422266	RIMS1		6:72182930	G	A		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs200422266
+rs886061707	RIMS1		6:72183027	C	T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs886061707
+rs891525901	RIMS1		6:72213210	C	G, T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs891525901
+rs1012788466	RIMS1		6:72217222	C	A, T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs1012788466
+rs886061708	RIMS1		6:72233798	T	A, C		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs886061708
+rs374761298	RIMS1		6:72235629	G	A		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs374761298
+rs77121218	RIMS1		6:72235647	G	A, C		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs77121218
+rs376761576	RIMS1		6:72237932	C	A		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs376761576
+rs760492397	RIMS1		6:72248127	T	C		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs760492397
+rs1590432210	RIMS1		6:72248141	G	A		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs1590432210
+rs190023733	RIMS1		6:72250318	C	T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs190023733
+rs199629596	RIMS1		6:72250382	A	G		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs199629596
+rs370823273	RIMS1		6:72250455	T	C		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs370823273
+rs121918302	RIMS1		6:72251007	G	A, T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs121918302
+rs186078277	RIMS1		6:72251071	A	G		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs186078277
+rs747921988	RIMS1		6:72251211	T	C		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs747921988
+rs34821160	RIMS1		6:72251340	T	C		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs34821160
+rs149883454	RIMS1		6:72252753	T	C		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs149883454
+rs1590681805	RIMS1		6:72252834	T	C		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs1590681805
+rs2076629294	RIMS1		6:72258141	T	G		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs2076629294
+rs776281976	RIMS1		6:72258146	G	A, T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs776281976
+rs2076646164	RIMS1		6:72258181	C	G		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs2076646164
+rs2076658233	RIMS1		6:72258219	T	C		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs2076658233
+rs2076660465	RIMS1		6:72258222	T	A, C		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs2076660465
+rs767699562	RIMS1		6:72258244	A	G		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs767699562
+rs752875047	RIMS1		6:72258248	C	T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs752875047
+rs41265493	RIMS1		6:72258249	G	A		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs41265493
+rs764444309	RIMS1		6:72258250	C	T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs764444309
+rs587783021	RIMS1		6:72264994-72264997	-	-		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs587783021
+rs201355521	RIMS1		6:72265029	C	T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs201355521
+rs564292772	RIMS1		6:72265061	C	A		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs564292772
+rs769791945	RIMS1		6:72265444	C	T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs769791945
+rs375979731	RIMS1		6:72265474	A	G		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs375979731
+rs115294253	RIMS1		6:72265515	T	G		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs115294253
+rs368216570	RIMS1		6:72274345	A	G		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs368216570
+rs202076893	RIMS1		6:72274380	C	A, T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs202076893
+rs190562383	RIMS1		6:72274415	G	A, C		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs190562383
+rs41265501	RIMS1		6:72274420	C	T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs41265501
+rs2091432283	RIMS1		6:72284131	T	C		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs2091432283
+rs762158019	RIMS1		6:72290712	C	T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs762158019
+rs770686490	RIMS1		6:72290713	G	A		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs770686490
+rs200637817	RIMS1		6:72290827	G	A		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs200637817
+rs367601102	RIMS1		6:72291954	C	T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs367601102
+rs757548948	RIMS1		6:72291981	C	T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs757548948
+rs369147538	RIMS1		6:72291982	G	A		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs369147538
+rs2095260209	RIMS1		6:72307326	G	A		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs2095260209
+rs769179703	RIMS1		6:72307328	G	T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs769179703
+rs201798320	RIMS1		6:72307348	T	C		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs201798320
+rs2095617894	RIMS1		6:72313591	T	A, C		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs2095617894
+rs886061709	RIMS1		6:72313599	A	G		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs886061709
+rs2095619223	RIMS1		6:72313609	C	T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs2095619223
+rs201017334	RIMS1		6:72333628	C	T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs201017334
+rs372513852	RIMS1		6:72333660	G	A, C		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs372513852
+rs201885523	RIMS1		6:72333666	C	A, T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs201885523
+rs373553229	RIMS1		6:72333728	T	C		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs373553229
+rs200471435	RIMS1		6:72390673	T	C		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs200471435
+rs2098688415	RIMS1		6:72390675	G	A		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs2098688415
+rs746893761	RIMS1		6:72392704	A	G		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs746893761
+rs2815738	RIMS1		6:72392740	C	A, G, T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs2815738
+rs200818374	RIMS1		6:72392791	C	A, G, T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs200818374
+rs113359739	RIMS1		6:72392821-72392830	-	-		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs113359739
+rs113359739	RIMS1		6:72392821-72392830	-	-		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs113359739
+rs376289027	RIMS1		6:72399076	A	G		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs376289027
+rs553488575	RIMS1		6:72399109	G	A, C		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs553488575
+rs144188801	RIMS1		6:72400558	C	T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs144188801
+rs201355053	RIMS1		6:72400580	T	A		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs201355053
+rs2098829238	RIMS1		6:72400605	A	G		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs2098829238
+rs528476500	RIMS1		6:72400706	C	G, T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs528476500
+rs61736795	RIMS1		6:72400711	A	C, G		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs61736795
+rs762926493	RIMS1		6:72400758	G	A		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs762926493
+rs11751101	RIMS1		6:72400789	G	A		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs11751101
+rs55642181	RIMS1		6:72400852	G	A, T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs55642181
+rs1409375849	RIMS1		6:72400903	A	G, T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs1409375849
+rs1265999499	RIMS1		6:72400916	G	C		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs1265999499
+rs9446637	RIMS1		6:72400994	C	T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs9446637
+rs140634975	RIMS1		6:72400997	A	G		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs140634975
+rs575379426	RIMS1		6:72401111	G	A		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs575379426
+rs555043314	RIMS1		6:72401167	G	C		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs555043314
+rs201958591	RIMS1		6:72401223-72401231	-	-		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs201958591
+rs886061713	RIMS1		6:72401252	C	T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs886061713
+rs774599192	RIMS1		6:72401256	A	C, T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs774599192
+rs886061714	RIMS1		6:72401259	C	A		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs886061714
+rs150486970	RIMS1		6:72401497	G	A		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs150486970
+rs886061715	RIMS1		6:72401578	G	T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs886061715
+rs2098836015	RIMS1		6:72401655	T	C		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs2098836015
+rs538581208	RIMS1		6:72401739	G	T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs538581208
+rs2815736	RIMS1		6:72401752	A	G		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs2815736
+rs9446638	RIMS1		6:72401790	A	G		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs9446638
+rs1175994935	RIMS1		6:72401848	C	T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs1175994935
+rs1379307160	RIMS1		6:72401944	A	C, G		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs1379307160
+rs574994605	RIMS1		6:72401994	G	A		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs574994605
+rs191038983	RIMS1		6:72402024	A	C, G		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs191038983
+rs886061716	RIMS1		6:72402069	C	T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs886061716
+rs142802827	RIMS1		6:72402104	-	-		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs142802827
+rs537509888	RIMS1		6:72402156-72402167	-	-		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs537509888
+rs886061719	RIMS1		6:72402160	A	G		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs886061719
+rs886061718	RIMS1		6:72402168-72402171	-	-		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs886061718
+rs549225918	RIMS1		6:72402172	A	C, T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs549225918
+rs73750480	RIMS1		6:72402208	T	C		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs73750480
+rs886061721	RIMS1		6:72402396	C	T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs886061721
+rs773379819	RIMS1		6:72402404	G	A		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs773379819
+rs539479642	RIMS1		6:72402416	G	A		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs539479642
+rs886061722	RIMS1		6:72402419	C	T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs886061722
+rs115062476	RIMS1		6:72402649	A	G, T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs115062476
+rs1055270	RIMS1		6:72402678	C	A, G, T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs1055270
+rs41265503	RIMS1		6:72402705	T	G		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs41265503
+rs542135172	RIMS1		6:72402763	T	A, G		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs542135172
+rs138055062	RIMS1		6:72402839	G	C		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs138055062
+rs985097971	RIMS1		6:72402846	A	G		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs985097971
+rs116453051	RIMS1		6:72402965	G	A		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs116453051
+rs78214534	RIMS1		6:72403005	C	T		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs78214534
+rs2098844396	RIMS1		6:72403071	C	G		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs2098844396
+rs886061723	RIMS1		6:72403100	T	G		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs886061723
+rs570975514	RIMS1		6:72403143	G	A		hom	High cognitive	Late onset visual loss (Cone-rod dystrophy)	https://www.ncbi.nlm.nih.gov/snp/rs570975514
